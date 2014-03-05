@@ -23,7 +23,7 @@
 <hr>
 
 <br><br>
-<h1>2. We Design For Deals</h1>
+<h1>2. We Design For Deals.</h1>
 
 
 <div class="row">
