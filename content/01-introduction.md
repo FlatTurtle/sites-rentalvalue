@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 
-<a href="https://img.flatturtle.com/resonance/1-big.png" class="fancybox"><img src="https://img.flatturtle.com/resonance/1.png" alt="resonance plan" /></a>
+<a href="http://www.rentalvalue.be/gallery/images/backgrounds/background07b.jpg" class="fancybox"><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background07b.jpg" alt="analyse and suggest" /></a>
 <br><br>
 <h1>1. We Analyse & Suggest.</h1>
 
@@ -22,6 +22,7 @@
 
 <hr>
 
+<a href="http://www.rentalvalue.be/gallery/images/backgrounds/background03.jpg" class="fancybox"><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background03.jpg" alt="design" /></a>
 <br><br>
 <h1>2. We Design For Deals.</h1>
 
@@ -44,6 +45,7 @@
 
 <hr>
 
+<a href="http://www.rentalvalue.be/gallery/images/backgrounds/background06.jpg" class="fancybox"><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background06.jpg" alt="generate" /></a>
 <br><br>
 <h1>3. We Generate Leases.</h1>
 
