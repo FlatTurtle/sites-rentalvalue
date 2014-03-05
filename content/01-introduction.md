@@ -50,13 +50,16 @@
 
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
-<p>Secondly<br /></p>
+<p>Finally, our lettingGenerator™ provides you peace of mind, knowing that absolutely everything is done to fill your property.</p>
+<p>E-very-thing.<br /></p>
 
-<p>Secondly<br /></p>
-<p>Secondly<br /></p>
-<p>Secondly<br /></p>
-<p>Secondly<br /></p>
-<small>* </small>
+<p>Our lettingGenerator™ creates demand for your property collaborating intimately with individual real estate brokers, conducts memorable viewings, drafts personalised lease offers and converts negotiations into deals*.<br /></p>
+
+<p>She makes sure that all brokers are truly giving your property the attention it deserves. As experienced real estate professionals, both brokers and prospective tenants respect and appreciate our role acting on your behalf, as landlord. Our lettingGenerator™ is bold & unafraid, optimistic about leasing opportunities and realistic about what is possible - with the courage to do what is right and the tenacity to see it through.<br /></p>
+
+<p>This person brings your vacant property to life and makes it perform – otherwise it is like an empty theatre.<br /></p>
+
+<small>* 1st lease in less than 90 days of launching.</small>
 
 
 </div>
