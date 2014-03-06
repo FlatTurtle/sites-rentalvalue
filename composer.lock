@@ -446,12 +446,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "9274773270126d8d24fb40a0da3b4d9dec3485e4"
+                "reference": "cbb67cd64c0a18f466730ddbe606626005fab59c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/9274773270126d8d24fb40a0da3b4d9dec3485e4",
-                "reference": "9274773270126d8d24fb40a0da3b4d9dec3485e4",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/cbb67cd64c0a18f466730ddbe606626005fab59c",
+                "reference": "cbb67cd64c0a18f466730ddbe606626005fab59c",
                 "shasum": ""
             },
             "require": {
@@ -555,7 +555,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2014-03-06 04:01:20"
+            "time": "2014-03-06 14:27:31"
         },
         {
             "name": "monolog/monolog",
