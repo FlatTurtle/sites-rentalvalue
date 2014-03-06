@@ -6,15 +6,15 @@
     <style>
     body, nav {
     	background-color: #000;
-    	color: #AAA;
+    	color: #FFF;
     }
 
-    nav a {
+    nav a, .block h2 {
     	color: #FFF;
     }
 
     h1 {
-    	color: #FFF;
+    	color: #D3BC8D;
     }
 
     #content .block, #content+#reservations {
