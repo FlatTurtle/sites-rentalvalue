@@ -1,14 +1,15 @@
-<h1>3-stage approach</h1>
+<h1>a 3-stage approach</h1>
 
 <div style="text-align: center;">
 
-<a href="http://www.rentalvalue.be/gallery/images/backgrounds/background07b.jpg" class="fancybox"><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background07b.jpg" alt="analyse and suggest" /></a>
+<a href="http://www.rentalvalue.be/gallery/images/backgrounds/background07b.jpg" class="fancybox" title="We Analyse the commercial attractiveness of your property and Suggest all necessary improvements that will maximise leasing opportunities."><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background07b.jpg" alt="analyse and suggest" /></a>
 <br><br>
 <h1>1. We Analyse & Suggest.</h1>
 
+<div style="text-align: justify;">
 
 <div class="row">
-<div class="col-md-10 col-md-offset-1">
+<div class="col-md-6 col-md-offset-3">
 <p>A leasing is not a coincidence. It is the logical result of a unique leasing process engineered by a buildingClinique™, where we ANALYSE and audit the commercial attractiveness of your property. And we also SUGGEST all necessary improvements  that will maximise leasing opportunities.<br /></p>
 
 
@@ -21,6 +22,7 @@
 </div>
 
 <hr>
+
 
 <a href="http://www.rentalvalue.be/gallery/images/backgrounds/background03.jpg" class="fancybox"><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background03.jpg" alt="design" /></a>
 <br><br>
