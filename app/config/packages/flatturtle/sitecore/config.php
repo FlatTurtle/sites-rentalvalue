@@ -109,6 +109,9 @@ return array(
 	*/
 
 	'social' => array(
+		'twitter' 	=>	'https://twitter.com/rentalVALUE',
+		'linkedin'	=>	'https://www.linkedin.com/company/rentalvalue',
+		'pinterest' =>	'http://www.pinterest.com/rentalvalue',
 	)
 
 );

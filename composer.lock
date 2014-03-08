@@ -446,12 +446,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "cbb67cd64c0a18f466730ddbe606626005fab59c"
+                "reference": "a084f61690d10a58645a28ebf835809bd6aae99f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/cbb67cd64c0a18f466730ddbe606626005fab59c",
-                "reference": "cbb67cd64c0a18f466730ddbe606626005fab59c",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/a084f61690d10a58645a28ebf835809bd6aae99f",
+                "reference": "a084f61690d10a58645a28ebf835809bd6aae99f",
                 "shasum": ""
             },
             "require": {
@@ -514,7 +514,7 @@
                 "iron-io/iron_mq": "1.5.*",
                 "mockery/mockery": "0.9.*",
                 "pda/pheanstalk": "2.1.*",
-                "phpunit/phpunit": "3.7.*"
+                "phpunit/phpunit": "4.0.*"
             },
             "suggest": {
                 "doctrine/dbal": "Allow renaming columns and dropping SQLite columns."
@@ -555,7 +555,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2014-03-06 14:27:31"
+            "time": "2014-03-08 04:40:33"
         },
         {
             "name": "monolog/monolog",
