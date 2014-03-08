@@ -3,7 +3,7 @@ body, nav {
 	color: #FFF;
 }
 
-nav a, .block h2 {
+nav a, nav a:hover, .block h2 {
 	color: #FFF;
 }
 
