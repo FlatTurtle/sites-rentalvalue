@@ -40,7 +40,7 @@ return array(
 	|--------------------------------------------------------------------------
 	*/
 
-	'logo' => null,
+	'logo' => 'https://img.flatturtle.com/rentalvalue/logo/rentalvalue.png',
 
 
 	/*
