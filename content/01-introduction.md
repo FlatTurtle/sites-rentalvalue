@@ -5,7 +5,8 @@
 <a href="http://www.rentalvalue.be/gallery/images/backgrounds/background07b.jpg" class="fancybox" title="We Analyse the commercial attractiveness of your property and Suggest all necessary improvements that will maximise leasing opportunities."><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background07b.jpg" alt="analyse and suggest" /></a>
 <br><br>
 
-<h1>1. We Analyse & Suggest.</h1>
+<h1>1. We Analyse </h1>
+<h2>and Suggest</h2>
 
 </div>
 
@@ -28,7 +29,8 @@
 <a href="http://www.rentalvalue.be/gallery/images/backgrounds/background03.jpg" class="fancybox"><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background03.jpg" alt="design" /></a>
 <br><br>
 
-<h1>2. We Design For Deals.</h1>
+<h1>2. We Design </h1>
+<h2>for Deals</h2>
 
 </div>
 
@@ -64,8 +66,8 @@
 
 <a href="http://www.rentalvalue.be/gallery/images/backgrounds/background06.jpg" class="fancybox"><img src="http://www.rentalvalue.be/gallery/images/backgrounds/background06.jpg" alt="generate" /></a>
 <br><br>
-<h1>3. We Generate Leases.</h1>
-
+<h1>3. We Generate</h1>
+<h2>Deals</h2>
 
 </div>
 
