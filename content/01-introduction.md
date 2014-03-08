@@ -75,8 +75,7 @@
  	   <div class="col-md-6 col-md-offset-3">
  	   <div style="text-align: justify;">
  	   
- 	   <p>Finally, our lettingGenerator™ provides you peace of mind, knowing that absolutely everything is done to fill your property.</p>
- 	   <p>E-very-thing.</p>
+ 	   <p>Finally, our lettingGenerator™ provides you peace of mind, knowing that absolutely everything is done to fill your property.Eve-ry-thing.</p>
  	   
  	   <p>Our lettingGenerator™ creates demand for your property collaborating intimately with individual real estate brokers, conducts memorable viewings, drafts personalised lease offers and converts negotiations into deals*.<br /></p>
  	   
