@@ -27,7 +27,7 @@
  	   <div style="text-align: right;">
  	   <div property="address" resource="#Address" typeof="PostalAddress">
  	   
- 	   <p><strong>rentalValue™ Brussels</br></p>
+ 	   <p><strong>rentalValue™ Brussels</strong></br></p>
  	   <p>Company N° BE 0822 348 182</p>
  	   <p>Tour & Taxis</p>
  	   <p><span property="streetAddress">Avenue du Port 86c - 18</span></p>
