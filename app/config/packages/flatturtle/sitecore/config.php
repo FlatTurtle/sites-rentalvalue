@@ -65,7 +65,7 @@ return array(
 	|
 	*/
 
-	'map' => false,
+	'map' => true,
 	'map_height' => '450px',
 
 
